@@ -7,7 +7,7 @@ A full-stack web application designed to streamline the process of tracking and 
 - **Role-Based Access Control:** Distinct portals for Admins, Teachers, and Students.
 - **Real-Time Dashboard:** Visual analytics of record trends using Recharts.
 - **Secure Authentication:** User management powered by Supabase Auth.
-- **Responsive Design:** Fully optimized for mobile and desktop using Tailwind CSS.
+- **Responsive Design:** Fully optimized for mobile and desktop using Tailwind CSS."Fixed".
 
 ## Tech Stack
 - **Frontend:** React, TypeScript, Vite
